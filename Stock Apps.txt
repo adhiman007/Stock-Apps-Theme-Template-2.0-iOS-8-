@@ -1,0 +1,385 @@
+The following is a list of the all the Stock App's Bundle ID's, Icon names, and icon sizes, in the following format:
+
+_______________________________________
+*Name of App*: (*Special Note, if any*)
+	*Bundle ID*
+		*Icon Name 1* (_x_ pixel size)
+		*Icon Name 2* (_x_ pixel size)
+		*etc. etc.*
+_______________________________________
+
+App Store: 
+	com.apple.AppStore
+		Appstore20.png (20x20)
+		Appstore29.png (29x29)
+		Appstore40.png (40x40)
+		Appstore58.png (58x58)
+		Appstore76.png (76x76)
+		Appstore80.png (80x80)
+		Appstore120.png (120x120)
+		Appstore152.png (152x152)
+
+Calculator:
+	com.apple.calculator
+		icon-about@2x.png (80x80)
+		icon-spotlight@2x.png (40x40)
+		icon@2x.png (120x120)
+		
+Camera:
+	com.apple.camera
+		Camera-Guides.png (40x40)
+		Camera-Guides@2x.png (80x80)
+		Camera-NotificationCenter.png (20x20)
+		Camera-NotificationCenter@2x.png (40x40)
+		Camera-setting.png (29x29)
+		Camera-settings@2x.png (58x58)
+		Camera@2x~ipad.png (152x152)
+		Camera@2x~iphone.png (120x120)
+		Camera~ipad.png (76x76)
+
+Compass:
+	com.apple.compass
+		AppIcon29x29@2x.png (58x58)
+		AppIcon40x40@2x.png (80x80)
+		AppIcon60x60@2x.png (120x120)
+		AppIcon60x60@3x.png (180x180)
+		icon-about@2x.png (80x80)
+		icon-spotlight@2x.png (40x40)
+		icon-table@2x.png (58x58)
+		icon@2x~iphone.png (120x120)
+		icon@3x~iphone.png (180x180)
+		
+Facetime:
+	com.apple.facetime
+		AppIcon29x29@2x.png (58x58)
+		AppIcon29x29@2x~ipad.png (58x58)
+		AppIcon29x29@3x.png (87x87)
+		AppIcon29x29~ipad.png (29x29)
+		AppIcon40x40@2x.png (80x80)
+		AppIcon40x40@2x~ipad.png (80x80)
+		AppIcon40x40@3x.png (120x120)
+		AppIcon40x40~ipad.png (40x40)
+		AppIcon60x60@2x.png (120x120)
+		AppIcon60x60@3x.png (180x180)
+		AppIcon76x76@2x~ipad.png (152x152)
+		AppIcon76x76~ipad.png (76x76)
+		
+Family Sharing:
+	com.apple.family
+		family_29.png (29x29)
+		family_29@2x.png (58x58)
+		
+Game Center:
+	com.apple.gamecenter
+		AppIcon40x40@2x.png (80x80)
+		AppIcon40x40@2x~ipad.png (80x80)
+		AppIcon40x40~ipad.png (40x40)
+		AppIcon60x60@2x.png (120x120)
+		AppIcon76x76@2x~ipad.png (152x152)
+		AppIcon76x76~ipad.png (76x76)
+		
+Health:
+	com.apple.Health
+		AppIcon29x29@2x.png (58x58)
+		AppIcon40x40@2x.png (80x80)
+		AppIcon60x60@2x.png (120x120)
+		
+iBooks:
+	com.apple.iBooks
+		AppIcon29x29@2x.png (58x58)
+		AppIcon29x29@2x~ipad.png (58x58)
+		AppIcon29x29@3x.png (87x87)
+		AppIcon29x29~ipad.png (29x29)
+		AppIcon40x40@2x.png (80x80)
+		AppIcon40x40@2x~ipad.png (80x80)
+		AppIcon40x40@3x.png (120x120)
+		AppIcon40x40~ipad.png (40x40)
+		AppIcon60x60@2x.png (120x120)
+		AppIcon60x60@3x.png (180x180)
+		AppIcon76x76@2x~ipad.png (152x152)
+		AppIcon76x76~ipad.png (76x76)
+		
+Maps:
+	com.apple.Maps
+		Icon-20.png (20x20)
+		Icon-29.png (29x29)
+		Icon-40.png (40x40)
+		Icon-58.png (58x58)
+		Icon-76.png (76x76)
+		Icon-80.png (80x80)
+		Icon-120.png (120x120)
+		Icon-152.png (152x152)
+Contacts:
+	com.apple.MobileAddressBook
+		AppIcon29x29@2x.png (58x58)
+		AppIcon29x29@2x~ipad.png (58x58)
+		AppIcon29x29@3x.png (87x87)
+		AppIcon29x29~ipad.png (29x29)
+		AppIcon40x40@2x.png (80x80)
+		AppIcon40x40@2x~ipad.png (80x80)
+		AppIcon40x40@3x.png (120x120)
+		AppIcon40x40~ipad.png (40x40)
+		AppIcon60x60@2x.png (120x120)
+		AppIcon60x60@3x.png (180x180)
+		AppIcon76x76@2x~ipad.png (152x152)
+		AppIcon76x76~ipad.png (76x76)
+		
+Calendar:
+	com.apple.mobilecal
+		icon-about@2x.png (80x80)
+		icon-about~ipad.png (40x40)
+		icon-settings@3x.png (87x87)
+		icon-spotlight@2x.png (40x40)
+		icon-spotlight~ipad.png (20x20)
+		icon@2x~ipad.png (152x152)
+		icon@2x~iphone.png (120x120)
+		icon~ipad.png (76x76)
+		
+Mail:
+	com.apple.mobilemail
+		Icon-20@2x.png (40x40)
+		Icon-20~ipad.png (20x20)
+		Icon-40@2x.png (80x80)
+		Icon-40@3x.png (120x120)
+		Icon-76@2x~ipad.png (152x152)
+		Icon-76~ipad.png (76x76)
+		Icon-Small.png (29x29)
+		Icon-Small@2x.png (58x58)
+		Icon-Small@3x.png (87x87)
+		Icon@2x.png (120x120)
+		Icon@3x.png (180x180)
+		
+Notes:
+	com.apple.mobilenotes
+		AppIcon29x29.png (29x29)
+		AppIcon29x29@2x.png (58x58)
+		AppIcon29x29@2x~ipad.png (58x58)
+		AppIcon29x29~ipad.png (29x29)
+		AppIcon40x40@2x.png (80x80)
+		AppIcon40x40@2x~ipad.png (80x80)
+		AppIcon40x40@3x.png (120x120)
+		AppIcon40x40~ipad.png (40x40)
+		AppIcon60x60@2x.png (120x120)
+		AppIcon60x60@3x.png (180x180)
+		AppIcon76x76@2x~ipad.png (152x152)
+		AppIcon76x76~ipad.png (76x76)
+		
+Phone:
+	com.apple.mobilephone
+		AppIcon29x29@2x.png (58x58)
+		AppIcon29x29@3x.png (87x87)
+		AppIcon40x40@2x.png (80x80)
+		AppIcon40x40@3x.png (120x120)
+		AppIcon60x60@2x.png (120x120)
+		AppIcon60x60@3x.png (180x180)
+		
+Safari:
+	com.apple.mobilesafari
+		icon-about@2x.png (80x80)
+		icon-about@3x~iphone.png (120x120)
+		icon-about~ipad.png (40x40)
+		icon-spotlight@2x.png (40x40)
+		icon-spotlight@3x~iphone.png (60x60)
+		icon-spotlight~ipad.png (20x20)
+		icon-table@2x.png (58x58)
+		icon-table@3x~iphone.png (87x87)
+		icon-table~ipad.png (29x29)
+		icon@2x~ipad.png (152x152)
+		icon@2x~iphone.png (120x120)
+		icon@3x~iphone.png (180x180)
+		icon~ipad.png (76x76)
+		
+Photos:
+	com.apple.mobileslideshow
+		Photos-Guides.png (40x40)
+		Photos-Guides@2x.png (80x80)
+		Photos-Guides@3x.png (120x120)
+		Photos-NotificationCenter.png (20x20)
+		Photos-NotificationCenter@2x.png (40x40)
+		Photos-NotificationCenter@3x.png (60x60)
+		Photos-settings.png (29x29)
+		Photos-settings@2x.png (58x58)
+		Photos-settings@3x.png (87x87)
+		Photos@2x~ipad.png (152x152)
+		Photos@2x~iphone.png (120x120)
+		Photos@3x~iphone.png (180x180)
+		Photos~ipad.png (76x76)
+		
+Messages:
+	com.apple.MobileSMS
+		AppIcon29x29@2x.png (58x58)
+		AppIcon29x29@2x~ipad.png (58x58)
+		AppIcon29x29~ipad.png (29x29)
+		AppIcon40x40@2x.png (80x80)
+		AppIcon40x40@2x~ipad.png (80x80)
+		AppIcon40x40~ipad.png (40x40)
+		AppIcon60x60@2x.png (120x120)
+		AppIcon60x60@3x.png (120x120)
+		AppIcon76x76@2x~ipad.png (152x152)
+		AppIcon76x76~ipad.png (76x76)
+iTunes:
+	com.apple.MobileStore
+		iTunesStore20.png (20x20)
+		iTunesStore29.png (29x29)
+		iTunesStore40.png (40x40)
+		iTunesStore58.png (58x58)
+		iTunesStore76.png (76x76)
+		iTunesStore80.png (80x80)
+		iTunesStore120.png (120x120)
+		iTunesStore152.png (152x152)
+		
+Clock:
+	com.apple.mobiletimer
+		icon-about@2x.png (80x80)
+		icon-about@3x.png (120x120)
+		icon-about~ipad.png (40x40)
+		icon-spotlight@2x.png (40x40)
+		icon-spotlight@3x.png (60x60)
+		icon-spotlight~ipad.png (20x20)
+		
+Music:
+	com.apple.Music
+		AppIcon29x29@2x.png (58x58)
+		AppIcon29x29@2x~ipad.png (58x58)
+		AppIcon29x29~ipad.png (29x29)
+		AppIcon40x40@2x.png (80x80)
+		AppIcon40x40@2x~ipad.png (80x80)
+		AppIcon40x40@3x.png (120x120)
+		AppIcon40x40~ipad.png (40x40)
+		AppIcon60x60@2x.png (120x120)
+		AppIcon60x60@3x.png (180x180)
+		AppIcon72x72@2x~ipad.png (144x144)
+		AppIcon72x72~ipad.png (72x72)
+		AppIcon76x76@2x~ipad.png (152x152)
+		AppIcon76x76~ipad.png (76x76)
+		
+Nike+:
+	com.apple.nike
+		Icon-Small@2x.png (58x58)
+		icon@2x.png (120x120)
+		
+Passbook:
+	com.apple.Passbook
+		Icon-Small@2x.png (58x58)
+		Icon-Small@3x.png (87x87)
+		icon@2x.png (120x120)
+		Icon@3x.png (180x180)
+		
+Photo Booth:
+	com.apple.Photo-Booth
+		PhotoBooth-Guides.png (40x40)
+		PhotoBooth-Guides@2x.png (80x80)
+		PhotoBooth-NotificationCenter.png (20x20)
+		PhotoBooth-NotificationCenter@2x.png (40x40)
+		PhotoBooth@2x~ipad.png (152x152)
+		PhotoBooth~ipad.png (76x76)
+		
+Podcasts:
+	com.apple.podcasts
+		AppIcon29x29@2x.png (58x58)
+		AppIcon29x29@2x~ipad.png (58x58)
+		AppIcon29x29~ipad.png (29x29)
+		AppIcon40x40@2x.png (80x80)
+		AppIcon40x40@2x~ipad.png (80x80)
+		AppIcon40x40~ipad.png (40x40)
+		AppIcon60x60@2x.png (120x120)
+		AppIcon76x76@2x~ipad.png (152x152)
+		AppIcon76x76~ipad.png (76x76)
+
+Settings:
+	com.apple.Preferences
+		AppIcon29x29@2x.png (58x58)
+		AppIcon29x29@2x~ipad.png (58x58)
+		AppIcon29x29@3x.png (87x87)
+		AppIcon29x29~ipad.png (29x29)
+		AppIcon40x40@2x.png (80x80)
+		AppIcon40x40@2x~ipad.png (80x80)
+		AppIcon40x40@3x.png (120x120)
+		AppIcon40x40~ipad.png (40x40)
+		AppIcon60x60@2x.png (120x120)
+		AppIcon60x60@3x.png (180x180)
+		AppIcon76x76@2x~ipad.png (152x152)
+		AppIcon76x76~ipad.png (76x76)
+		
+Reminders:
+	com.apple.reminders
+		icon@2x~ipad.png (152x152)
+		icon@2x~iphone.png (120x120)
+		icon@3x.png (180x180)
+		icon~ipad.png (76x76)
+		settingsIcon@2x.png (29x29)
+		settingsIcon@3x.png (87x87)
+		settingsIcon~ipad.png (58x58)
+		spotlightIcon@2x.png (40x40)
+		spotlightIcon~ipad.png (20x20)
+		
+Clock (again), and Newsstand (Both with stored inside Springboard.app):
+
+(Apple stores a couple icons for the Clock app and the NewsStand app inside the Springboard.app Bundle. This is basically becuase Newsstand functions weirdly compared to the other apps out there- more like an add-on to Springboard than a real app- and the clock app is another exception becuase of the live icon which appeared in iOS 7.[Which dosnt really make sense becuase the Calendar app is also live, and it stores all its resources in mobilecal.app, but I digress. Apple can do what they want, as they make the rules.] Long story short, theme these icons if you want Clock and NewsStand apps to work correctly in your theme.)
+
+	com.apple.springboard
+		ClockIconBackgroundSquare@2x~ipad.png (152x152)
+		ClockIconBackgroundSquare@2x~iphone.png (120x120)
+		ClockIconBackgroundSquare@3x~iphone.png (180x180)
+		ClockIconBackgroundSquare~ipad.png (76x76)
+		NewsstandIconEnglish@2x~ipad.png (152x152)
+		NewsstandIconEnglish@2x~iphone.png (120x120)
+		NewsstandIconEnglish@3x~iphone.png (180x180)
+		NewsstandIconEnglish~ipad.png (76x76)
+		NewsstandIconInternational@2x~ipad.png (152x152)
+		NewsstandIconInternational@2x~iphone.png (120x120)
+		NewsstandIconInternational@3x~iphone.png (180x180)
+		NewsstandIconInternational~ipad.png (76x76)
+		
+Stocks:
+	com.apple.stocks
+		icon-about@2x~iphone.png (80x80)
+		icon-about@3x~iphone.png (120x120)
+		Icon-Small@3x.png (120x120)
+		icon-spotlight@2x~iphone.png (40x40)
+		icon-spotlight@3x~iphone.png (60x60)
+		icon-table@2x.png (58x58)
+		icon-table@3x.png (87x87)
+		icon@2x~iphone.png (120x120)
+		icon@3x~iphone.png (180x180)
+		
+Tips:
+	com.apple.tips
+		AppIcon29x29@2x.png (58x58)
+		AppIcon29x29@2x~ipad.png (58x58)
+		AppIcon29x29@3x.png (87x87)
+		AppIcon29x29~ipad.png (29x29)
+		AppIcon40x40@2x.png (80x80)
+		AppIcon40x40@2x~ipad.png (80x80)
+		AppIcon40x40@3x.png (120x120)
+		AppIcon40x40~ipad.png (40x40)
+		AppIcon60x60@2x.png (120x120)
+		AppIcon60x60@3x.png (180x180)
+		AppIcon76x76@2x~ipad.png (152x152)
+		AppIcon76x76~ipad.png (76x76)
+
+Videos:
+	com.apple.videos
+		AppIcon29x29@2x.png (58x58)
+		AppIcon29x29@2x~ipad.png (58x58)
+		AppIcon29x29~ipad.png (29x29)
+		AppIcon40x40@2x.png (80x80)
+		AppIcon40x40@2x~ipad.png (80x80)
+		AppIcon40x40~ipad.png (40x40)
+		AppIcon60x60@2x.png (120x120)
+		AppIcon60x60@3x.png (180x180)
+		AppIcon76x76@2x~ipad.png (152x152)
+		AppIcon76x76~ipad.png (76x76)
+		
+Voice Memos:
+	com.apple.VoiceMemos
+		icon@2x.png (120x120)
+		icon@3x.png (180x180)
+		
+Weather:
+	com.apple.weather
+		AppIcon40x40@2x.png (80x80)
+		AppIcon40x40@3x.png (120x120)
+		AppIcon60x60@2x.png (120x120)
+		AppIcon60x60@3x.png (180x180)
+
